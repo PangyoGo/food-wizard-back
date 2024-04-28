@@ -44,3 +44,5 @@ out/
 .gradle/
 gradlew
 gradlew.bat
+
+application-*.yml
