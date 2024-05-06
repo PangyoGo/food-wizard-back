@@ -46,3 +46,5 @@ gradlew
 gradlew.bat
 
 application-*.yml
+
+jwt-key
